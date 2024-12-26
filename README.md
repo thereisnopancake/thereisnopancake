@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thereisnopancake
+- Chief of Staff @Asteroid Mining Corporation and AMC Robotics
 - 👀 I’m interested in asteroid mining, robotics, autonomous systems in and for space.
-- 🌱 I’m currently learning C/C++, building robots for asteroid mining and pursuing a masters in Autonomous Systems
+- 🌱 I’m currently learning C/C++, building robots for asteroid mining 
 - 💞️ I’m in love with robots, long distance running and space (duh).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mldoehmer/).
 
